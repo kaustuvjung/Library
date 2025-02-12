@@ -8,8 +8,7 @@
 
 # igne
 
-wwwroot/
-
+Library/wwwroot/
 
 # User-specific files
 *.rsuser
